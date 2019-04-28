@@ -6,8 +6,8 @@ The sprint will be given using a Spigot Minecraft server with a RaspberryJuice a
 
 Activities:
 
-  Setup environment: All participants need to be able to connect to the server and run python scripts. Other plugins could be tested.
+ * Setup environment: All participants need to be able to connect to the server and run python scripts. Other plugins could be tested.
 
-  Coding: Kids learn by doing, so the idea is to build something (for instance a castle) and in the process explain the fundamental of programming (variables, if-statements, loops, functions, etc). We are not going to do a draft of a book instead we are going to do a draft of a kind of Lego manual.
+ * Coding: Kids learn by doing, so the idea is to build something (for instance a castle) and in the process explain the fundamental of programming (variables, if-statements, loops, functions, etc). We are not going to do a draft of a book instead we are going to do a draft of a kind of Lego manual.
 
   This sprint seeks to contribute with open source material in order to bring python to a game that kids are passionate about.
